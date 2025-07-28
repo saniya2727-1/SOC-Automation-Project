@@ -59,7 +59,7 @@ Ref 4: SHA256 Extraction Step
 📌 This step parses the SHA256 hash from the Wazuh alert payload using the following regular expression:
 regex
 ```regex
-SHA256=([A-Fa-f0-9]{64})
+SHA256=([A-Fa-f0-9]{64}) ```
 
 Ref 5: VirusTotal Query & Results
 
