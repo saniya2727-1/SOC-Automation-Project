@@ -75,9 +75,9 @@ Ref 6: TheHive Case View
 
 <img width="1439" height="295" alt="Screenshot 2025-07-28 at 6 01 08 PM" src="https://github.com/user-attachments/assets/1df56e2d-20af-438a-8cb7-9855c617d876" />
 
-📌 Cases in TheHive are populated with alert data and linked observables. Analysts can assign severity, track investigation, and launch Cortex analyzers.
+📌 Cases in TheHive are populated with alert data and linked observables. Analysts can assign severity and track investigation.
 
-Ref 7: 
+Ref 7: Email Alert
 
 <img width="1376" height="422" alt="Screenshot 2025-07-28 at 6 02 23 PM" src="https://github.com/user-attachments/assets/1380c6b6-e855-4bf0-8176-a84479781154" />
 
